@@ -4,9 +4,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mateusrlecchi@gmail.com)
 [![Portifolio](https://img.shields.io/badge/Portifolio-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://mateuslecchiDev.github.io/Portifolio/)
 
-![Mateus Lecchi GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusLecchiDev&show_icons=true&theme=aura)
+![Mateus Lecchi GitHub stats](https://mateuslecchidev-github-stats.vercel.app/api?username=MateusLecchiDev&show_icons=true&theme=aura)
 
-[![Top Lans](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLecchiDev)](https://github.com/MateusLecchiDev/github-readme-stats)
+[![Top Lans](https://mateuslecchidev-github-stats.vercel.app/api/top-langs/?username=MateusLecchiDev&layout=compact)](https://github.com/MateusLecchiDev/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia
 
